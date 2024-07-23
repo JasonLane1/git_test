@@ -1,1 +1,2 @@
-practicing how git works
+practicing how git
+took out 'work'
